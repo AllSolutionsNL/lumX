@@ -7,7 +7,7 @@
                                         content="lxSelectData.selectedTemplate"></lx-select-choices-selected>
         </li>
 
-        <li>
+        <li ng-if="!lxSelectNoFilter">
             <div class="lx-select__filter dropdown-filter"
                  ng-class="{ 'dropdown-filter': !lxSelectCustom }">
                 <lx-search-filter model="lxSelectData.filter" filter-width="100%" lx-dropdown-filter></lx-search-filter>
