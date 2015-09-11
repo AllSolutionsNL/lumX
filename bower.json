@@ -7,7 +7,7 @@
     "Framework"
   ],
   "homepage": "http://ui.lumapps.com",
-  "version": "0.0.0",
+  "version": "0.3.83b",
   "authors": [
     "LumApps"
   ],
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/lumapps/lumx.git"
+    "url": "git://github.com/AllSolutionsNL/lumX.git"
   },
   "ignore": [
     "**/.*",
