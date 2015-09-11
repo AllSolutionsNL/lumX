@@ -3831,7 +3831,7 @@ angular.module("lumx.select").run(['$templateCache', function(a) { a.put('select
     '    </lx-dropdown>\n' +
     '</div>\n' +
     '');
-	a.put('', '<div lx-dropdown-toggle>\n' +
+	a.put('select-selected.html', '<div lx-dropdown-toggle>\n' +
     '    <span class="lx-select__floating-label" ng-if="lxSelectGetSelectedElements().length !== 0 && lxSelectFloatingLabel" ng-bind-html="lxSelectTrust(lxSelectPlaceholder)"></span>\n' +
     '\n' +
     '    <div class="lx-select__selected"\n' +
