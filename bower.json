@@ -1,5 +1,5 @@
 {
-  "name": "lumx",
+  "name": "lumx-vogsy",
   "description": "The first responsive front-end framework based on AngularJS & Google Material Design specifications",
   "kewords": [
     "AngularJS",
@@ -7,7 +7,7 @@
     "Framework"
   ],
   "homepage": "http://ui.lumapps.com",
-  "version": "0.3.83b",
+  "version": "0.3.84",
   "authors": [
     "LumApps"
   ],
